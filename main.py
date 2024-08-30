@@ -281,7 +281,7 @@ def contact():
 # DON'T put your email and password here directly! The code will be visible when you upload to Github.
 # Use environment variables instead (Day 35)
 
-# MAIL_ADDRESS = os.getenv("EMAIL")
+# MAIL_ADDRESS = os.getenv("Email_")
 # MAIL_APP_PW = os.getenv("PASSWORD_KEY")
 
 # @app.route("/contact", methods=["GET", "POST"])
